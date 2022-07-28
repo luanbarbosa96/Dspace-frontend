@@ -1,0 +1,11 @@
+{
+    "apps": [
+        {
+           "name": "dspace-angular",
+           "cwd": "/frontend/dspace-angular-dspace-7.2",
+           "script": "yarn",
+           "args": "run serve:ssr",
+           "interpreter": "none"
+        }
+    ]
+}

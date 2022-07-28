@@ -1,0 +1,4715 @@
+{
+  "src/app/my-dspace-page/my-dspace-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/date-picker/date-picker.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/existing-metadata-list-element/existing-metadata-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/app.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-sidebar/admin-sidebar-section/admin-sidebar-section.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/dso-selector/modal-wrappers/create-community-parent-selector/create-community-parent-selector.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-sidebar/admin-sidebar.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-sidebar/expandable-admin-sidebar-section/expandable-admin-sidebar-section.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/theme-support/themed.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/pagenotfound/pagenotfound.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/forbidden/forbidden.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/page-internal-server-error/page-internal-server-error.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/file-dropzone-no-uploader/file-dropzone-no-uploader.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/item-list-element/item-types/item/item-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/collection-list-element/collection-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/community-list-element/community-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/object-list.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/collection-grid-element/collection-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/community-grid-element/community-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/object-grid.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-collection/object-collection.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/error/error.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/loading/loading.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/pagination/pagination.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/thumbnail/thumbnail.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search-form/scope-selector-modal/scope-selector-modal.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search-form/search-form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/view-mode-switch/view-mode-switch.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/auth-nav-menu/auth-nav-menu.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/log-out/log-out.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/truncatable/truncatable.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/truncatable/truncatable-part/truncatable-part.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/uploader/uploader.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/chips/chips.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/number-picker/number-picker.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/alert/alert.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/claimed-task/return-to-pool/claimed-task-actions-return-to-pool.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/claimed-task/claimed-task-actions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/pool-task/pool-task-actions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-detail/object-detail.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-detail/my-dspace-result-detail-element/item-detail-preview/item-detail-preview.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-collection/shared/mydspace-item-status/my-dspace-item-status.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/workspaceitem/workspaceitem-actions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/workflowitem/workflowitem-actions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-collection/shared/mydspace-item-submitter/item-submitter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/item/item-actions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/claimed-task/approve/claimed-task-actions-approve.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/claimed-task/reject/claimed-task-actions-reject.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/browse-by/browse-by.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/browse-entry-list-element/browse-entry-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/lang-switch/lang-switch.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/starts-with/date/starts-with-date.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/starts-with/text/starts-with-text.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/dso-selector/dso-selector/dso-selector.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/search-result-list-element/search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/search-result-list-element/community-search-result/community-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/search-result-list-element/collection-search-result/collection-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/my-dspace-result-list-element/item-list-preview/item-list-preview.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/field-components/metadata-field-wrapper/metadata-field-wrapper.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/field-components/metadata-values/metadata-values.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/auth-nav-menu/user-menu/user-menu.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/search-result-grid-element/search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/search-result-grid-element/collection-search-result/collection-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/search-result-grid-element/community-search-result/community-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/page-size-selector/page-size-selector.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/input-suggestions/input-suggestions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/item-grid-element/item-types/item/item-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-collection/shared/listable-object/listable-object-component-loader.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/search-result-list-element/item-search-result/item-types/item/item-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/sidebar/page-with-sidebar.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/sidebar/sidebar-dropdown.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/sidebar/filter/sidebar-filter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/sidebar/filter/sidebar-filter-selected-option.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/item/item-versions/item-versions-summary-modal/item-versions-summary-modal.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/item/item-versions/item-versions-delete-modal/item-versions-delete-modal.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/item/item-versions/item-versions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/log-in/container/log-in-container.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/log-in/methods/shibboleth/log-in-shibboleth.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/log-in/methods/password/log-in-password.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/log-in/log-in.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/mydspace-actions/claimed-task/edit-metadata/claimed-task-actions-edit-metadata.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/file-download-link/file-download-link.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/collection-dropdown/collection-dropdown.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/entity-dropdown/entity-dropdown.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/vocabulary-treeview/vocabulary-treeview.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/dso-page/dso-page-edit-button/dso-page-edit-button.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/dso-page/dso-page-version-button/dso-page-version-button.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/item/item-alerts/item-alerts.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-grid/search-result-grid-element/item-search-result/item/item-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/simple/related-items/related-items.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/menu/menu-item/onclick-menu-item.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/search-navbar/search-navbar.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/ds-select/ds-select.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/home-page/home-news/home-news.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/home-page/home-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/home-page/top-level-community-list/top-level-community-list.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/statistics/angulartics/dspace/view-tracker.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/lookup-by-id/objectnotfound/objectnotfound.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/register-page/register-email/register-email.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/register-page/create-profile/create-profile.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/profile-page/profile-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/tag/dynamic-tag.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/list/dynamic-list.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/onebox/dynamic-onebox.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/scrollable-dropdown/dynamic-scrollable-dropdown.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/lookup/dynamic-lookup.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/array-group/dynamic-form-array.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/relation-group/dynamic-relation-group.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/models/custom-switch/custom-switch.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/relation-lookup-modal/dynamic-lookup-relation-modal.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/ds-dynamic-form-control-container.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/relation-lookup-modal/search-tab/dynamic-lookup-relation-search-tab.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/relation-lookup-modal/selection-tab/dynamic-lookup-relation-selection-tab.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/import-external/import-external-collection/submission-import-external-collection.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/relation-lookup-modal/external-source-tab/external-source-entry-import-modal/external-source-entry-import-modal.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/relation-lookup-modal/external-source-tab/dynamic-lookup-relation-external-source-tab.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-switch-configuration/search-switch-configuration.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filters.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-filter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-labels/search-labels.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-range-filter/search-range-filter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-text-filter/search-text-filter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-hierarchy-filter/search-hierarchy-filter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-boolean-filter/search-boolean-filter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-facet-filter-options/search-facet-option/search-facet-option.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-facet-filter-options/search-facet-selected-option/search-facet-selected-option.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-facet-filter-options/search-facet-range-option/search-facet-range-option.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-filters/search-filter/search-authority-filter/search-authority-filter.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-sidebar/search-sidebar.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search-settings/search-settings.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/search/search.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/form/builder/ds-dynamic-form-ui/existing-relation-list-element/existing-relation-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/forgot-password/forgot-password-email/forgot-email.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/forgot-password/forgot-password-form/forgot-password-form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/community-page/community-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/community-page/sub-collection-list/community-page-sub-collection-list.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/community-page/create-community-page/create-community-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/community-page/delete-community-page/delete-community-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/comcol/comcol-forms/comcol-form/comcol-form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/comcol/comcol-page-content/comcol-page-content.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/comcol/comcol-page-handle/comcol-page-handle.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/comcol/comcol-page-header/comcol-page-header.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/comcol/comcol-page-logo/comcol-page-logo.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/comcol/comcol-page-browse-by/comcol-page-browse-by.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/comcol/comcol-forms/edit-comcol-page/comcol-role/comcol-role.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/resource-policies/resource-policies.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/resource-policies/form/eperson-group-list/eperson-group-list.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/community-page/sub-community-list/community-page-sub-community-list.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/collection-page/collection-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/collection-page/create-collection-page/create-collection-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/collection-page/delete-collection-page/delete-collection-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/collection-page/collection-item-mapper/collection-item-mapper.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/collection-page/edit-collection-page/collection-source/collection-source-controls/collection-source-controls.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/edit-item-page/item-metadata/item-metadata.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/edit-item-page/item-bitstreams/item-bitstreams.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/edit-item-page/item-collection-mapper/item-collection-mapper.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/edit-item-page/item-relationships/item-relationships.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/edit-item-page/item-metadata/edit-in-place-field/edit-in-place-field.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/search-page/search-tracker.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-pages/journal/journal.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-pages/journal-issue/journal-issue.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-pages/journal-volume/journal-volume.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-list-elements/journal/journal-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-list-elements/journal-issue/journal-issue-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-list-elements/journal-volume/journal-volume-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-grid-elements/journal-issue/journal-issue-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-grid-elements/journal-volume/journal-volume-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-grid-elements/journal/journal-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-list-elements/search-result-list-elements/journal/journal-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-grid-elements/search-result-grid-elements/journal/journal-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-list-elements/search-result-list-elements/journal-issue/journal-issue-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-list-elements/search-result-list-elements/journal-volume/journal-volume-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-grid-elements/search-result-grid-elements/journal-issue/journal-issue-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/journal-entities/item-grid-elements/search-result-grid-elements/journal-volume/journal-volume-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-pages/org-unit/org-unit.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-pages/person/person.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-pages/project/project.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-list-elements/org-unit/org-unit-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-list-elements/person/person-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-list-elements/project/project-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-grid-elements/person/person-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-grid-elements/org-unit/org-unit-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-grid-elements/project/project-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-list-elements/search-result-list-elements/org-unit/org-unit-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-list-elements/search-result-list-elements/person/person-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-list-elements/search-result-list-elements/project/project-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-grid-elements/search-result-grid-elements/person/person-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-grid-elements/search-result-grid-elements/org-unit/org-unit-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/item-grid-elements/search-result-grid-elements/project/project-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/submission/name-variant-modal/name-variant-modal.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/submission/item-list-elements/person/person-search-result-list-submission-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/submission/item-list-elements/person/person-suggestions/person-input-suggestions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/submission/item-list-elements/org-unit/org-unit-suggestions/org-unit-input-suggestions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/submission/item-list-elements/org-unit/org-unit-search-result-list-submission-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/entity-groups/research-entities/submission/item-list-elements/external-source-entry/external-source-entry-list-submission-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/edit-item-page/item-relationships/edit-relationship/edit-relationship.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/edit-item-page/item-relationships/edit-relationship-list/edit-relationship-list.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/simple/item-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/full/full-item-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/version-page/version-page/version-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/field-components/metadata-uri-values/metadata-uri-values.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/full/field-components/file-section/full-file-section.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/simple/item-types/publication/publication.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/simple/item-types/versioned-item/versioned-item.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/simple/item-types/untyped-item/untyped-item.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/media-viewer/media-viewer.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/media-viewer/media-viewer-video/media-viewer-video.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/media-viewer/media-viewer-image/media-viewer-image.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/item-page/mirador-viewer/mirador-viewer.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/bitstream-page/edit-bitstream-page/edit-bitstream-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/my-dspace-page/collection-selector/collection-selector.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/my-dspace-page/my-dspace-new-submission/my-dspace-new-submission.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/my-dspace-result-list-element/workspace-item-search-result/workspace-item-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-detail/my-dspace-result-detail-element/search-result-detail-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-detail/my-dspace-result-detail-element/item-search-result/item-search-result-detail-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-detail/my-dspace-result-detail-element/workspace-item-search-result/workspace-item-search-result-detail-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/object-list/my-dspace-result-list-element/item-search-result/item-search-result-list-element-submission.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/my-dspace-page/my-dspace-new-submission/my-dspace-new-submission-dropdown/my-dspace-new-submission-dropdown.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/my-dspace-page/my-dspace-new-submission/my-dspace-new-external-dropdown/my-dspace-new-external-dropdown.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/browse-by/browse-by-metadata-page/browse-by-metadata-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-registries/metadata-registry/metadata-registry.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-registries/metadata-schema/metadata-schema.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-workflow-page/admin-workflow-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-workflow-page/admin-workflow-search-results/admin-workflow-search-result-grid-element/workflow-item/workflow-item-search-result-admin-workflow-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-workflow-page/admin-workflow-search-results/workflow-item-admin-workflow-actions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-workflow-page/admin-workflow-search-results/admin-workflow-search-result-list-element/workflow-item/workflow-item-search-result-admin-workflow-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-results/admin-search-result-list-element/item-search-result/item-admin-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-results/admin-search-result-list-element/community-search-result/community-admin-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-results/admin-search-result-list-element/collection-search-result/collection-admin-search-result-list-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-results/admin-search-result-grid-element/item-search-result/item-admin-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-results/admin-search-result-grid-element/community-search-result/community-admin-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-results/admin-search-result-grid-element/collection-search-result/collection-admin-search-result-grid-element.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/admin/admin-search-page/admin-search-results/item-admin-search-result-actions.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/login-page/login-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/logout-page/logout-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/submit/submission-submit.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/form/section-form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/form/collection/submission-form-collection.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/form/footer/submission-form-footer.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/form/submission-form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/form/section-add/submission-form-section-add.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/container/section-container.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/upload/section-upload.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/license/section-license.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/edit/submission-edit.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/upload/file/edit/section-upload-file-edit.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/upload/file/section-upload-file.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/import-external/import-external-searchbar/submission-import-external-searchbar.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/import-external/import-external-preview/submission-import-external-preview.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/import-external/submission-import-external.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/cc-license/submission-section-cc-licenses.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/submission/sections/accesses/section-accesses.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/import-external-page/import-external-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/new/new-process.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/scripts-select/scripts-select.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/script-help/script-help.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-parameters/parameter-select/parameter-select.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-parameters/process-parameters.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-parameters/parameter-value-input/string-value-input/string-value-input.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-parameters/parameter-value-input/parameter-value-input.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-parameters/parameter-value-input/file-value-input/file-value-input.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-parameters/parameter-value-input/boolean-value-input/boolean-value-input.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/process-page/form/process-parameters/parameter-value-input/date-value-input/date-value-input.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/info/end-user-agreement/end-user-agreement.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/info/privacy/privacy.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/info/feedback/feedback.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/info/end-user-agreement/end-user-agreement-content/end-user-agreement-content.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/info/privacy/privacy-content/privacy-content.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/info/feedback/feedback-form/feedback-form.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/request-copy/grant-deny-request-copy/grant-deny-request-copy.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/request-copy/deny-request-copy/deny-request-copy.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/request-copy/grant-request-copy/grant-request-copy.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/request-copy/email-request-copy/email-request-copy.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/statistics-page/site-statistics-page/site-statistics-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/statistics-page/statistics-table/statistics-table.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/statistics-page/item-statistics-page/item-statistics-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/statistics-page/collection-statistics-page/collection-statistics-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/statistics-page/community-statistics-page/community-statistics-page.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/footer/footer.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/header-nav-wrapper/header-navbar-wrapper.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/header/header.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/navbar/navbar-section/navbar-section.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/navbar/expandable-navbar-section/expandable-navbar-section.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/navbar/navbar.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/notifications/notification/notification.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/shared/notifications/notifications-board/notifications-board.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/breadcrumbs/breadcrumbs.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/root/root.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/app/header-nav-wrapper/themed-header-navbar-wrapper.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/themes/dspace/app/home-page/home-news/home-news.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/themes/dspace/app/navbar/navbar.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/themes/dspace/app/header/header.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "src/themes/dspace/app/header-nav-wrapper/header-navbar-wrapper.component.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {},
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "HtmlWebpackCompiler": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "HtmlWebpackPlugin_0": 0
+        },
+        "bySource": {
+          "0 HtmlWebpackPlugin_0": 0
+        },
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {},
+    "usedIds": {}
+  },
+  "chunks": {
+    "byName": {
+      "access-control-access-control-module~admin-admin-module~bitstream-page-bitstream-page-module~browse-~2957577e": 0,
+      "access-control-access-control-module~admin-admin-module~bitstream-page-bitstream-page-module~browse-~30696412": 1,
+      "vendors~access-control-access-control-module~admin-admin-module~bitstream-page-bitstream-page-module~d891baac": 2,
+      "admin-admin-module~collection-page-collection-page-module~import-external-page-import-external-page-~2b784bc8": 3,
+      "profile-page-profile-page-module": 4,
+      "bitstream-page-bitstream-page-module~edit-community-page-edit-community-page-module": 5,
+      "browse-by-browse-by-page-module~community-page-community-page-module": 6,
+      "access-control-access-control-module": 7,
+      "admin-admin-module": 8,
+      "bitstream-page-bitstream-page-module": 9,
+      "browse-by-browse-by-page-module": 10,
+      "collection-page-collection-page-module": 11,
+      "community-list-page-community-list-page-module": 12,
+      "community-page-community-page-module": 13,
+      "edit-collection-page-edit-collection-page-module": 14,
+      "edit-community-page-edit-community-page-module": 15,
+      "forgot-password-forgot-password-module": 16,
+      "home-page-home-page-module": 17,
+      "import-external-page-import-external-page-module": 18,
+      "info-info-module": 19,
+      "item-page-item-page-module": 20,
+      "login-page-login-page-module": 21,
+      "logout-page-logout-page-module": 22,
+      "lookup-by-id-lookup-by-id-module": 23,
+      "main": 24,
+      "my-dspace-page-my-dspace-page-module": 25,
+      "process-page-process-page-module": 26,
+      "register-page-register-page-module": 27,
+      "request-copy-request-copy-module": 28,
+      "search-page-search-page-routing-module": 29,
+      "statistics-page-statistics-page-routing-module": 30,
+      "submit-page-submit-page-module": 31,
+      "workflowitems-edit-page-workflowitems-edit-page-module": 32,
+      "workspaceitems-edit-page-workspaceitems-edit-page-module": 33
+    },
+    "bySource": {
+      "1 register-page-register-page-module": 0,
+      "1 forgot-password-forgot-password-module": 0,
+      "1 community-page-community-page-module": 0,
+      "1 collection-page-collection-page-module": 0,
+      "1 item-page-item-page-module": 0,
+      "1 bitstream-page-bitstream-page-module": 0,
+      "0 my-dspace-page-my-dspace-page-module": 0,
+      "1 search-page-search-page-routing-module": 0,
+      "1 browse-by-browse-by-page-module": 0,
+      "1 admin-admin-module": 0,
+      "1 submit-page-submit-page-module": 0,
+      "1 import-external-page-import-external-page-module": 0,
+      "1 workspaceitems-edit-page-workspaceitems-edit-page-module": 0,
+      "1 workflowitems-edit-page-workflowitems-edit-page-module": 0,
+      "1 profile-page-profile-page-module": 0,
+      "1 access-control-access-control-module": 0,
+      "2 register-page-register-page-module": 1,
+      "2 forgot-password-forgot-password-module": 1,
+      "2 community-page-community-page-module": 1,
+      "2 collection-page-collection-page-module": 1,
+      "2 item-page-item-page-module": 1,
+      "2 bitstream-page-bitstream-page-module": 1,
+      "2 search-page-search-page-routing-module": 1,
+      "2 browse-by-browse-by-page-module": 1,
+      "2 admin-admin-module": 1,
+      "2 submit-page-submit-page-module": 1,
+      "2 import-external-page-import-external-page-module": 1,
+      "2 workspaceitems-edit-page-workspaceitems-edit-page-module": 1,
+      "2 workflowitems-edit-page-workflowitems-edit-page-module": 1,
+      "2 profile-page-profile-page-module": 1,
+      "2 access-control-access-control-module": 1,
+      "0 register-page-register-page-module": 2,
+      "0 forgot-password-forgot-password-module": 2,
+      "0 community-page-community-page-module": 2,
+      "0 collection-page-collection-page-module": 2,
+      "0 item-page-item-page-module": 2,
+      "0 bitstream-page-bitstream-page-module": 2,
+      "0 search-page-search-page-routing-module": 2,
+      "0 browse-by-browse-by-page-module": 2,
+      "0 admin-admin-module": 2,
+      "0 submit-page-submit-page-module": 2,
+      "0 import-external-page-import-external-page-module": 2,
+      "0 workspaceitems-edit-page-workspaceitems-edit-page-module": 2,
+      "0 workflowitems-edit-page-workflowitems-edit-page-module": 2,
+      "0 profile-page-profile-page-module": 2,
+      "0 access-control-access-control-module": 2,
+      "3 collection-page-collection-page-module": 3,
+      "3 item-page-item-page-module": 3,
+      "3 search-page-search-page-routing-module": 3,
+      "3 admin-admin-module": 3,
+      "3 submit-page-submit-page-module": 3,
+      "3 import-external-page-import-external-page-module": 3,
+      "3 workspaceitems-edit-page-workspaceitems-edit-page-module": 3,
+      "3 workflowitems-edit-page-workflowitems-edit-page-module": 3,
+      "3 profile-page-profile-page-module": 4,
+      "3 register-page-register-page-module": 4,
+      "3 forgot-password-forgot-password-module": 4,
+      "3 bitstream-page-bitstream-page-module": 5,
+      "0 edit-community-page-edit-community-page-module": 5,
+      "3 community-page-community-page-module": 6,
+      "3 browse-by-browse-by-page-module": 6,
+      "3 access-control-access-control-module": 7,
+      "4 admin-admin-module": 8,
+      "4 bitstream-page-bitstream-page-module": 9,
+      "4 browse-by-browse-by-page-module": 10,
+      "4 collection-page-collection-page-module": 11,
+      "0 community-list-page-community-list-page-module": 12,
+      "4 community-page-community-page-module": 13,
+      "0 edit-collection-page-edit-collection-page-module": 14,
+      "1 edit-community-page-edit-community-page-module": 15,
+      "4 forgot-password-forgot-password-module": 16,
+      "0 home-page-home-page-module": 17,
+      "4 import-external-page-import-external-page-module": 18,
+      "0 info-info-module": 19,
+      "4 item-page-item-page-module": 20,
+      "0 login-page-login-page-module": 21,
+      "0 logout-page-logout-page-module": 22,
+      "0 lookup-by-id-lookup-by-id-module": 23,
+      "0 main": 24,
+      "1 my-dspace-page-my-dspace-page-module": 25,
+      "0 process-page-process-page-module": 26,
+      "4 register-page-register-page-module": 27,
+      "0 request-copy-request-copy-module": 28,
+      "4 search-page-search-page-routing-module": 29,
+      "0 statistics-page-statistics-page-routing-module": 30,
+      "4 submit-page-submit-page-module": 31,
+      "4 workflowitems-edit-page-workflowitems-edit-page-module": 32,
+      "4 workspaceitems-edit-page-workspaceitems-edit-page-module": 33,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/breadcrumbs\\/breadcrumbs\\.component$/ groupOptions: {} namespace object ./custom/app/breadcrumbs/breadcrumbs.component": 34,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/browse\\-by\\/browse\\-by\\-switcher\\/browse\\-by\\-switcher\\.component$/ groupOptions: {} namespace object ./custom/app/browse-by/browse-by-switcher/browse-by-switcher.component": 35,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/collection\\-page\\/collection\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/collection-page/collection-page.component": 36,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/community\\-list\\-page\\/community\\-list\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/community-list-page/community-list-page.component": 37,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/community\\-page\\/community\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/community-page/community-page.component": 38,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/footer\\/footer\\.component$/ groupOptions: {} namespace object ./custom/app/footer/footer.component": 39,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/forbidden\\/forbidden\\.component$/ groupOptions: {} namespace object ./custom/app/forbidden/forbidden.component": 40,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/forgot\\-password\\/forgot\\-password\\-email\\/forgot\\-email\\.component$/ groupOptions: {} namespace object ./custom/app/forgot-password/forgot-password-email/forgot-email.component": 41,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/forgot\\-password\\/forgot\\-password\\-form\\/forgot\\-password\\-form\\.component$/ groupOptions: {} namespace object ./custom/app/forgot-password/forgot-password-form/forgot-password-form.component": 42,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/header\\-nav\\-wrapper\\/header\\-navbar\\-wrapper\\.component$/ groupOptions: {} namespace object ./custom/app/header-nav-wrapper/header-navbar-wrapper.component": 43,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/header\\/header\\.component$/ groupOptions: {} namespace object ./custom/app/header/header.component": 44,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/home\\-page\\/home\\-news\\/home\\-news\\.component$/ groupOptions: {} namespace object ./custom/app/home-page/home-news/home-news.component": 45,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/home\\-page\\/home\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/home-page/home-page.component": 46,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/info\\/end\\-user\\-agreement\\/end\\-user\\-agreement\\.component$/ groupOptions: {} namespace object ./custom/app/info/end-user-agreement/end-user-agreement.component": 47,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/info\\/feedback\\/feedback\\.component$/ groupOptions: {} namespace object ./custom/app/info/feedback/feedback.component": 48,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/info\\/privacy\\/privacy\\.component$/ groupOptions: {} namespace object ./custom/app/info/privacy/privacy.component": 49,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/item\\-page\\/full\\/full\\-item\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/item-page/full/full-item-page.component": 50,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/item\\-page\\/simple\\/field\\-components\\/file\\-section\\/file\\-section\\.component$/ groupOptions: {} namespace object ./custom/app/item-page/simple/field-components/file-section/file-section.component": 51,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/item\\-page\\/simple\\/item\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/item-page/simple/item-page.component": 52,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/login\\-page\\/login\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/login-page/login-page.component": 53,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/logout\\-page\\/logout\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/logout-page/logout-page.component": 54,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/lookup\\-by\\-id\\/objectnotfound\\/objectnotfound\\.component$/ groupOptions: {} namespace object ./custom/app/lookup-by-id/objectnotfound/objectnotfound.component": 55,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/my\\-dspace\\-page\\/my\\-dspace\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/my-dspace-page/my-dspace-page.component": 56,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/navbar\\/navbar\\.component$/ groupOptions: {} namespace object ./custom/app/navbar/navbar.component": 57,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/pagenotfound\\/pagenotfound\\.component$/ groupOptions: {} namespace object ./custom/app/pagenotfound/pagenotfound.component": 58,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/profile\\-page\\/profile\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/profile-page/profile-page.component": 59,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/register\\-page\\/create\\-profile\\/create\\-profile\\.component$/ groupOptions: {} namespace object ./custom/app/register-page/create-profile/create-profile.component": 60,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/root\\/root\\.component$/ groupOptions: {} namespace object ./custom/app/root/root.component": 61,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/search\\-page\\/configuration\\-search\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/search-page/configuration-search-page.component": 62,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/search\\-page\\/search\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/search-page/search-page.component": 63,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/statistics\\-page\\/collection\\-statistics\\-page\\/collection\\-statistics\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/statistics-page/collection-statistics-page/collection-statistics-page.component": 64,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/statistics\\-page\\/community\\-statistics\\-page\\/community\\-statistics\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/statistics-page/community-statistics-page/community-statistics-page.component": 65,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/statistics\\-page\\/item\\-statistics\\-page\\/item\\-statistics\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/statistics-page/item-statistics-page/item-statistics-page.component": 66,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/statistics\\-page\\/site\\-statistics\\-page\\/site\\-statistics\\-page\\.component$/ groupOptions: {} namespace object ./custom/app/statistics-page/site-statistics-page/site-statistics-page.component": 67,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/submission\\/edit\\/submission\\-edit\\.component$/ groupOptions: {} namespace object ./custom/app/submission/edit/submission-edit.component": 68,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/submission\\/import\\-external\\/submission\\-import\\-external\\.component$/ groupOptions: {} namespace object ./custom/app/submission/import-external/submission-import-external.component": 69,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/submission\\/submit\\/submission\\-submit\\.component$/ groupOptions: {} namespace object ./custom/app/submission/submit/submission-submit.component": 70,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/workflowitems\\-edit\\-page\\/workflow\\-item\\-delete\\/workflow\\-item\\-delete\\.component$/ groupOptions: {} namespace object ./custom/app/workflowitems-edit-page/workflow-item-delete/workflow-item-delete.component": 71,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/workflowitems\\-edit\\-page\\/workflow\\-item\\-send\\-back\\/workflow\\-item\\-send\\-back\\.component$/ groupOptions: {} namespace object ./custom/app/workflowitems-edit-page/workflow-item-send-back/workflow-item-send-back.component": 72,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/header\\-nav\\-wrapper\\/header\\-navbar\\-wrapper\\.component$/ groupOptions: {} namespace object ./dspace/app/header-nav-wrapper/header-navbar-wrapper.component": 73,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/header\\/header\\.component$/ groupOptions: {} namespace object ./dspace/app/header/header.component": 74,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/home\\-page\\/home\\-news\\/home\\-news\\.component$/ groupOptions: {} namespace object ./dspace/app/home-page/home-news/home-news.component": 75,
+      "0 src/themes lazy /^\\.\\/.*\\/app\\/navbar\\/navbar\\.component$/ groupOptions: {} namespace object ./dspace/app/navbar/navbar.component": 76
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      2,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      3,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      4,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      5,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      6,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      7,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      8,
+      9
+    ]
+  }
+}
